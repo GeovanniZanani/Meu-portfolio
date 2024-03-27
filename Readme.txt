@@ -1,6 +1,6 @@
-Esse é um teamplate para o estudo da matéria de Front-end básico
+Thanks for downloading this template!
 
-Template Name: Meu portfolio
+Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Autor: Geovanni Zanani
+Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
